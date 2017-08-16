@@ -28,7 +28,7 @@
     // Do any additional setup after loading the view from its nib.
     [self setTitle:@"General Setting"];
     NSLog(@"ffffff");
-    NSLog(@"ggggggggg");
+    NSLog(@"qqqqqqqqqq");
     textViewTag = 0;
     dbPath = [[LibraryAPI sharedInstance]getDbPath];
     terminalType = [[LibraryAPI sharedInstance]getWorkMode];
